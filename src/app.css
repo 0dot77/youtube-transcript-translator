@@ -1,0 +1,7 @@
+h1 {
+  color: red;
+}
+input::placeholder {
+  color: #ffffff;
+  text-align: center;
+}
